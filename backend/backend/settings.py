@@ -15,6 +15,7 @@ ALLOWED_HOSTS = [
     'localhost',
     '89.169.168.104',
     'https://nana-gelion.zapto.org',
+    'nana-gelion.zapto.org',
 ]
 
 
